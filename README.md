@@ -17,10 +17,14 @@ This repository contains all the essential topics and basic code examples I lear
 
 
 ## 🚀 About Me
+Hi, I’m **Nitin Singh Rajput**, a B.Tech student at IITM Janakpuri, passionate about coding and problem-solving.
 
-👋 I'm **Nitin Singh**, currently pursuing B.Tech in Computer Science.  
 📌 Currently:  
 - Learning DSA using C++  
 - Solving problems on platforms like LeetCode & Codeforces  
 - Building my GitHub profile for SDE preparation
+
 This is my step toward mastering C++ and building strong DSA fundamentals.
+
+---
+#cpp #cplusplus #CollegeWallah #learning #githubportfolio #DSA #cppbasics #100daysofcode
