@@ -19,4 +19,8 @@ This repository contains all the essential topics and basic code examples I lear
 ## 🚀 About Me
 
 👋 I'm **Nitin Singh**, currently pursuing B.Tech in Computer Science.  
+📌 Currently:  
+- Learning DSA using C++  
+- Solving problems on platforms like LeetCode & Codeforces  
+- Building my GitHub profile for SDE preparation
 This is my step toward mastering C++ and building strong DSA fundamentals.
